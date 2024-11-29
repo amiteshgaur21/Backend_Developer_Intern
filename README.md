@@ -26,7 +26,7 @@ The login page is common for students and teachers.
 The username is their name and password for everyone is 'project123'.  
 
 Example usernames:  
-student- 'samarth'  
+student- 'amitesh_017'  
 teacher- 'trisila'  
 
 You can access the django admin page at **http://127.0.0.1:8000/admin** and login with username 'admin' and the above password.
@@ -45,7 +45,7 @@ The admin page is used to modify all tables such as Students, Teachers, Departme
 
 **For more details regarding the system and features please refer the reports included.**
 
-## Update (29/11/2020)
+## Update (29/11/2024)
 
 Added method to reset attendance time range in Django Admin page.
 
@@ -56,6 +56,39 @@ Start Date: Start Date of Attendance period
 End Date: End Date of Attendance period
 
 This will delete all present attendance data and create new attendance objects for the given time range. 
+
+## **System Features**
+
+### **1. Admin Panel**
+The Admin Panel grants full control over the system. Its primary features include:
+- Adding new students.
+- Adding new teachers.
+- Managing user access and system configurations.
+
+### **2. Teacher Panel**
+The Teacher Panel is equipped with tools for faculty members to efficiently handle student-related activities. Key functionalities include:
+- Marking student attendance.
+- Uploading student marks.
+- Generating individual student reports.
+- Accessing and managing the timetable.
+
+### **3. Student Panel**
+The Student Panel empowers students by giving them access to essential academic information. Features include:
+- Viewing attendance records.
+- Viewing marks and grades.
+- Accessing the timetable.
+
+---
+
+## **System Workflow**
+
+The College ERP System ensures seamless interaction between the Admin, Teacher, and Student panels:
+- **Admins**: Create and manage users, configure system settings.
+- **Teachers**: Update academic records, manage student activities.
+- **Students**: Access personal academic data through an intuitive interface.
+
+---
+
 
 ## Screenshots
 
@@ -94,3 +127,7 @@ This will delete all present attendance data and create new attendance objects f
 ![alt text](https://imgur.com/tMKWx6f.png)
 
 ![alt text](https://imgur.com/PvCsNeB.png)
+
+## **Conclusion**
+
+The College ERP System enhances institutional efficiency and communication by providing dedicated panels for Admins, Teachers, and Students. This tailored approach ensures that all stakeholders have access to the tools and information they need to fulfill their roles effectively.  
