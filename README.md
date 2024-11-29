@@ -1,4 +1,4 @@
-# College-ERP
+_# College-ERP
 A college management system built using Django framework. It is designed for interactions between students and teachers. Features include attendance, marks and time table.
 
 ## Installation
@@ -26,6 +26,7 @@ The login page is common for students and teachers.
 The username is their name and password for everyone is 'project123'.  
 
 Example usernames:  
+
 student- 'amitesh_017'  
 teacher- 'trisila'  
 
@@ -92,6 +93,10 @@ The College ERP System ensures seamless interaction between the Admin, Teacher, 
 
 ## Screenshots
 
+## Admin Page 
+![image](https://github.com/user-attachments/assets/4f951a17-2d36-4684-a0aa-e7e34554b4d7)
+
+
 ### Teacher Page
 
 ![alt text](https://imgur.com/pMAoEbG.png)
@@ -131,3 +136,4 @@ The College ERP System ensures seamless interaction between the Admin, Teacher, 
 ## **Conclusion**
 
 The College ERP System enhances institutional efficiency and communication by providing dedicated panels for Admins, Teachers, and Students. This tailored approach ensures that all stakeholders have access to the tools and information they need to fulfill their roles effectively.  
+_
